@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">webServiceRetrofitJSONGlide</string>
+    <string name="txtNumPokmn">¿Cuántos POKEMON desea consultar?</string>
+    <string name="etNumPokmn">Número de POKEMONS</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="clave_num_pokemon">NUM_POKEMON</string>
+</resources>
